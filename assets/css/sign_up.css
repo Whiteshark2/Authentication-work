@@ -1,0 +1,29 @@
+.container{
+    text-align: center;
+    background-color:black;
+    color:white;
+    width: 40%;
+    font-family:Sansita Swashed", cursive;
+}
+.heading{
+    font-size: 3rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+form{
+    margin:10px;
+    padding: 10px;
+    width: 90%;
+}
+ input{
+    border: 0px solid transparent;
+    font-size: 3rem;
+}
+button{
+    background-color: white;
+    color:black;
+    padding: 8px;
+    border: 0;
+    font-size:20px;
+    font-weight: 600;
+    border-radius: 4px;
+}
